@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cyborg/static/css/main.ffbf55ab.css",
+    "main.js": "/cyborg/static/js/main.318cd762.js",
+    "static/media/ROBOTIC-Hollow.woff": "/cyborg/static/media/ROBOTIC-Hollow.30dc629e631ebf74b9ec.woff",
+    "static/media/ROBOTIC-Hollow-Inverse.woff": "/cyborg/static/media/ROBOTIC-Hollow-Inverse.6bdc70c859e04596f839.woff",
+    "static/media/ROBOTIC-Inverse.woff": "/cyborg/static/media/ROBOTIC-Inverse.07922401730cb3e6c82a.woff",
+    "static/media/ROBOTIC-Bold-Italic.woff": "/cyborg/static/media/ROBOTIC-Bold-Italic.eaeff01f76965368309d.woff",
+    "static/media/ROBOTIC-Italic.woff": "/cyborg/static/media/ROBOTIC-Italic.ab7ae39c058e67b7b4aa.woff",
+    "static/media/ROBOTIC-Bold.woff": "/cyborg/static/media/ROBOTIC-Bold.f80161a55d86f8f44446.woff",
+    "static/media/ROBOTIC-Light.woff": "/cyborg/static/media/ROBOTIC-Light.d8fe4bc2dd01be89afb4.woff",
+    "static/media/ROBOTIC.woff": "/cyborg/static/media/ROBOTIC.2bac258aa2b2bbaa4e5a.woff",
+    "index.html": "/cyborg/index.html",
+    "main.ffbf55ab.css.map": "/cyborg/static/css/main.ffbf55ab.css.map",
+    "main.318cd762.js.map": "/cyborg/static/js/main.318cd762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffbf55ab.css",
+    "static/js/main.318cd762.js"
+  ]
+}
